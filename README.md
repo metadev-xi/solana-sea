@@ -65,4 +65,4 @@ Solana Sea provides a comprehensive API surface for both frontend interactions a
 
 <!-- Last Activity: 2026-01-29T11:12:39.675Z -->
 
-<!-- Last Activity: 2026-02-01T13:14:09.473Z -->
+<!-- Last Activity: 2026-02-01T14:14:10.344Z -->
